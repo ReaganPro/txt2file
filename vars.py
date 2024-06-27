@@ -1,5 +1,5 @@
 #Variables
-botToken = '5849758695:AAFXVPKiQli92pg-VOVBC8KEBMe5-eg3y0M'
+botToken = '5849758695:AAFBjKNTIMv5g6HjYxRmgvtZnZJ7ntsqfL8'
 
 #backup channel ID
 bci = '-1002115655400'
